@@ -204,5 +204,5 @@ function movePaddle() {
 
    // So we initialize the value
    init();
-   // And then, we start the loop so everything start running
+   // And then, we start the loop so everything start running!
    loop();  
